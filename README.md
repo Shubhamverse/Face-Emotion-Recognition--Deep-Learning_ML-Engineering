@@ -110,10 +110,8 @@ For Webapp , OpenCV can’t be used. Thus, using Streamlit-Webrtc for front-end 
 
 In this repository I have made a front end using streamlit .Streamlit doesn’t provide the live capture feature itself, instead uses a third party API. I have used streamlit-webrtc which helped to deal with real-time video streams. Image captured from the webcam is sent to VideoTransformer function to detect the emotion. Then this model was deployed on heroku and streamlit platform with the help of buildpack-apt which is necessary to deploy opencv model on heroku and streamlit.
 
-Heroku Link:- https://face-emotion-recognition-somya.herokuapp.com
 
-
-Streamlit Link:- [https://shubhamverse-face-emotion-recognition--deep-learning-app-gzwndx.streamlitapp.com/]
+Streamlit Link:- https://shubhamverse-face-emotion-recognition--deep-learning-app-gzwndx.streamlitapp.com/
 
 [ N.B:- If the website didn’t open , then try refreshing the page 2 to 3 times.]
 
