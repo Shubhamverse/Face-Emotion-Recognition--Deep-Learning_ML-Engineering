@@ -113,8 +113,7 @@ In this repository I have made a front end using streamlit .Streamlit doesn’t 
 Heroku Link:- https://face-emotion-recognition-somya.herokuapp.com
 
 
-Streamlit Link:- https://share.streamlit.io/soumya1999rta/face-emotion-recognition/main/app.py
-
+Streamlit Link:- [https://shubhamverse-face-emotion-recognition--deep-learning-app-gzwndx.streamlitapp.com/]
 
 [ N.B:- If the website didn’t open , then try refreshing the page 2 to 3 times.]
 
